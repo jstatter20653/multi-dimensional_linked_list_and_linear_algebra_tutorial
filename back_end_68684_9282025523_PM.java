@@ -20,9 +20,9 @@ public class back_end_68684_9282025523_PM {
 			
 			b5dll.Build(30, 29, 28, 27, 9);
 			
-			LinkedList<Double> L_list;
+			LinkedList<_3rd_Dimensional_Linked_List_Structure> L_list;
 			
-			L_list = b5dll.getFive_dimensional_linked_list();
+			L_list = b5dll.getFive_dimensional_linked_list_X_A();
 			
 		}
 		
